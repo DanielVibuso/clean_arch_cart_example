@@ -36,3 +36,5 @@ Para executar os testes do projeto, execute o seguinte comando:
 ```docker-compose run --rm test```
 
 Feito isso o projeto rodará os testes e removerá o container para não "poluir" toda vez que rodar novamente.
+
+TODO: put it on an API and make the asaas or other payment service integration.
